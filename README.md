@@ -22,4 +22,4 @@ Goal:
 There are two common approaches to solving DP problems:
 
 - **Top-Down (Memoization)**: Recursive + caching intermediate results
-- **Bottom-Up (Tabulation)**: Iterative table-filling [[See the Java Code](./src/BottomUp.java)]
+- **Bottom-Up (Tabulation)**: Iterative table-filling [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/class%20BottomUP_DP.java)]
