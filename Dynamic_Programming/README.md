@@ -21,5 +21,5 @@ Goal:
 
 There are two common approaches to solving DP problems:
 
-- **Top-Down (Memoization)**: Recursive + caching intermediate results
+- **Top-Down (Memoization)**: Recursive + caching intermediate results [[See the Java Code] (https://github.com/salemmohammed/DS_Alg_Practice/blob/main/Dynamic_Programming/Top_Down_DP.java)]
 - **Bottom-Up (Tabulation)**: Iterative table-filling [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/Dynamic_Programming/BottomUP_DP.java)]
