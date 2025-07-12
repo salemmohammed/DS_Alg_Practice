@@ -35,11 +35,11 @@ There are two common approaches to solving DP problems:
 - Find the **length** of the longest subsequence that appears in **both** sequences
 - The subsequence need not be contiguous, but must maintain relative order
 
+- **Bottom-Up and Top-Down**: [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/Dynamic_Programming/LongestCommonSubsequence.java)]
+
 ### Example
 
 ```text
 String A = "abcdaf"
 String B = "acbcf"
 LCS = "abcf" → Length = 4
-
-- **Bottom-Up and Top-Down**: [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/Dynamic_Programming/LongestCommonSubsequence.java)]
