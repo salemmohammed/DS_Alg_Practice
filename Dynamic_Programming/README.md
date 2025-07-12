@@ -23,3 +23,21 @@ There are two common approaches to solving DP problems:
 
 - **Top-Down (Memoization)**: Recursive + caching intermediate results [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/Dynamic_Programming/Top_Down_DP.java)]
 - **Bottom-Up (Tabulation)**: Iterative table-filling [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/Dynamic_Programming/BottomUP_DP.java)]
+
+
+
+## Longest Common Subsequence (LCS)
+
+**Given**:
+- Two sequences (strings)
+
+**Goal**:
+- Find the **length** of the longest subsequence that appears in **both** sequences
+- The subsequence need not be contiguous, but must maintain relative order
+
+### Example
+
+```text
+String A = "abcdaf"
+String B = "acbcf"
+LCS = "abcf" → Length = 4
