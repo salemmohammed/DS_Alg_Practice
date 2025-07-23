@@ -44,3 +44,21 @@ There are two common approaches to solving DP problems:
 String A = "abcdaf"
 String B = "acbcf"
 LCS = "abcf" → Length = 4
+
+
+## Subset sum Problem
+
+**Given**:
+- total and items
+
+**Goal**:
+- Find the **items** of the items list that can be equal or less than total.
+
+- **Bottom-Up and Top-Down**: [[See the Java Code](https://github.com/salemmohammed/DS_Alg_Practice/blob/main/DP/SubsetSum.java)]
+
+### Example
+
+```text
+Total 11
+items = {2,3,5,8}
+answer is 3 and 8
